@@ -269,3 +269,4 @@ XlsxWriter==3.0.4
 yarl==1.9.2
 zipp==3.16.2
 zstandard==0.21.0
+fastapi-sqlalchemy==0.2.1
